@@ -1,0 +1,15 @@
+.side-nav{
+    width: 20%;
+    
+}
+ul li:hover{
+    background-color: brown;
+    border-left: 5px solid blueviolet; 
+    
+}
+ul li{
+    background-color: black;
+}
+.items{
+    color: white;
+}
